@@ -6,7 +6,7 @@
     private $host = 'localhost';
     private $db   = 'ecommerce_db';
     private $user = 'practica_user';
-    private $pass = 'Funiglobal##2024';
+    private $pass = '';
     private $charset = 'utf8mb4';
 
     private function __construct()
